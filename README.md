@@ -5,4 +5,6 @@ That's why i have made this very simple powerpoint file for developers and desig
 
 
 ## Basic Landing Page UI Example Powerpoint
+Here is an example of a 4 section landing page including a CTA (Call to Action) conversion button.
+
 ![Landing Page ppt pptx example UI Kit](Screenshot_Wireframe_Landing_Creator.PNG?raw=true "Landing Page Creator UI Kit Powerpoing")
