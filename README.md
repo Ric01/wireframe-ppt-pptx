@@ -5,7 +5,4 @@ That's why i have made this very simple powerpoint file for developers and desig
 
 
 ## Basic Landing Page UI Example Powerpoint
-image:: Screenshot_Wireframe_Landing_Creator.PNG
-  :height: 100px
-  :width: 200 px
-  :scale: 50 %
+![Landing Page ppt pptx example UI Kit](Screenshot_Wireframe_Landing_Creator.PNG?raw=true "Landing Page Creator UI Kit Powerpoing")
